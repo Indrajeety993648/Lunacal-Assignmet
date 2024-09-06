@@ -1,71 +1,39 @@
-# Getting Started with Create React App
+# Lunacal Design
+![Screenshot from 2024-09-07 04-22-20](https://github.com/user-attachments/assets/2eac3ab1-2c31-44be-8a79-fa08ef0c3e1f)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This application showcases an interactive profile viewer, inspired by a design concept from Lunacal. Developed using modern web technologies, it demonstrates responsive design principles and interactive UI components.
 
-### `npm test`
+## Key Components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. Profile Information Tabs
+- Dynamic tab system with "About Me", "Experiences", and "Recommended" sections
+- Smooth tab transitions and content updates
+- Visually distinct active tab indicator
+- Streamlined layout for optimal viewing
 
-### `npm run build`
+### 2. Dynamic Image Showcase
+- Interactive image display with navigation controls
+- Feature to expand the image collection
+- Subtle visual cues for user interaction
+- ![Screenshot from 2024-09-07 04-22-00](https://github.com/user-attachments/assets/f70407aa-8507-4cb5-9f79-7e01d259eeba)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3. Adaptive Layout
+- Fluid design adjusting to various screen sizes, with focus on laptop displays (>768px)
+- Meticulous attention to spacing and element alignment across devices
 
-### `npm run eject`
+## Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React**: Powering the application's component architecture and state management
+- **Tailwind CSS**: Enabling rapid, utility-first styling and responsive design
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Lunacal-Assignmet
+1. Obtain the codebase:
