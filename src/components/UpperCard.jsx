@@ -25,7 +25,7 @@ const UpperCard = () => {
                 {tabs.map((tab) => (
                   <button
                     key={tab}
-                    className={`w-full flex-1 h-[49px] rounded-[26px] px-3 py-2 mx-5 transition-all duration-200 text-center font-['Poppins'] leading-[16.32px] ${
+                    className={`w-full flex-1 h-[50px] rounded-[14px] px-1 py-2 mx-2 transition-all duration-200 text-center font-['Poppins'] leading-[16.32px] ${
                       activeTab === tab
                         ? 'bg-[#28292f] shadow-[0_0_25px_25px_rgba(0,0,0,0.3)] text-white'
                         : 'hover:bg-[#2d2e30] hover:bg-opacity-60 hover:shadow-md text-[#9ea3a5]'
